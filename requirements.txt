@@ -1,5 +1,6 @@
 seaborn
-pandas_profiling
+pandas-profiling
+ydata-profiling
 pandas
 numpy
 matplotlib
