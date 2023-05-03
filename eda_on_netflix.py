@@ -445,7 +445,7 @@ def my_function():
     ### Thank You! Happy to get any suggestions or feedbacks.
     """
 
-
-# Create a Streamlit button and attach your function to it
-if st.button('Click me!'):
-    my_function()
+if __name__ == "__main__":
+    # Create a Streamlit button and attach your function to it
+    if st.button('Click me!'):
+        my_function()
