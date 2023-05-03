@@ -95,7 +95,6 @@ netflix_copy.isnull().sum()
 <a id=section302></a>
 """
 
-pip install -U pandas_profiling
 
 import pandas_profiling as prf
 
